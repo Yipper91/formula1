@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/formula1/static/css/main.b27888f9.css",
+    "main.js": "/formula1/static/js/main.dc39692e.js",
+    "static/js/453.3b0612fd.chunk.js": "/formula1/static/js/453.3b0612fd.chunk.js",
+    "static/media/fp-img.png": "/formula1/static/media/fp-img.d1ce65ecc02585b43d4e.png",
+    "static/media/formula1-background.png": "/formula1/static/media/formula1-background.22a97a666acc1c44a097.png",
+    "static/media/qual-img.png": "/formula1/static/media/qual-img.6fea8077ddc423073148.png",
+    "static/media/rd-img.png": "/formula1/static/media/rd-img.103265ab7cf08193526b.png",
+    "static/media/podium-img.png": "/formula1/static/media/podium-img.1a8856be18938184dcd6.png",
+    "static/media/press-img.png": "/formula1/static/media/press-img.d3bdb44f56100e151a56.png",
+    "static/media/x-icon.png": "/formula1/static/media/x-icon.de4a3724c3461d6d28ae.png",
+    "static/media/instagram-icon.png": "/formula1/static/media/instagram-icon.d7ef9fb3d342082404f8.png",
+    "static/media/facebook-icon.png": "/formula1/static/media/facebook-icon.37db4cf0a4c4860ec6b2.png",
+    "static/media/highlights-img.jpg": "/formula1/static/media/highlights-img.705a724e57e1dd8f4ccf.jpg",
+    "static/media/Formula1-Bold.otf": "/formula1/static/media/Formula1-Bold.94489425e19896648254.otf",
+    "static/media/Formula1-Regular.otf": "/formula1/static/media/Formula1-Regular.a5336cac9ba0fc563d1e.otf",
+    "static/media/formula1-logo.png": "/formula1/static/media/formula1-logo.af8a4220585f20cd03d5.png",
+    "index.html": "/formula1/index.html",
+    "main.b27888f9.css.map": "/formula1/static/css/main.b27888f9.css.map",
+    "main.dc39692e.js.map": "/formula1/static/js/main.dc39692e.js.map",
+    "453.3b0612fd.chunk.js.map": "/formula1/static/js/453.3b0612fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27888f9.css",
+    "static/js/main.dc39692e.js"
+  ]
+}
