@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'f1-reg';
+    src: url(../assets/font/Formula1-Regular.otf);
+}
+@font-face {
+    font-family: 'f1-bold';
+    src: url(../assets/font/Formula1-Bold.otf);
+}
+
+h1, h2, h3, h4, button {
+    font-family: 'f1-bold';
+    transition: .2s ease-in-out;
+    color: white;
+}
+h1 {
+    font-size: 64px;
+}
+h2 {
+    font-size: 44px;
+}
+h3 {
+    font-size: 18px;
+    margin-bottom: -8px;
+}
+h4 {
+    font-size: 24px;
+}
+
+p, a, li {
+    font-family: 'f1-reg';
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    transition: .2s ease-in-out;
+    color: white;
+}
+a:hover {
+    color: $primary;
+}
+strong {
+    font-family: 'f1-bold';
+}
+
+button {
+    padding: 8px 24px;
+    font-size: 16px;
+    border-radius: 4px;
+    pointer-events: auto;
+    cursor: pointer;
+    color: black;
+    background-color: white;
+    border: solid 3px white;
+    transition: .2s ease-in-out;
+}
+button:hover {
+    color: white;
+    background-color: $primary;
+    border: solid 3px $primary;
+}
+.btn-outline {
+    color: white;
+    background-color: transparent;
+    border: solid 3px white;
+}

@@ -1,0 +1,23 @@
+@mixin color( $text, $background, $border ) {
+    color: $text;
+    background-color: $background;
+    border-color: $border;
+}
+
+@mixin flex( $wrap, $direction, $posX, $posY ) {
+    display: flex;
+    flex-wrap: $wrap;
+    flex-direction: $direction;
+    justify-content: $posX;
+    align-items: $posY;
+}
+
+@mixin grid( $colStart, $colEnd, $rowStart, $rowEnd, $colGap, $rowGap ) {
+    display: grid;
+    grid-column-start: $colStart;
+    grid-column-end: $colEnd;
+    column-gap: $colGap;
+    grid-row-start: $rowStart;
+    grid-row-end: $rowEnd;
+    row-gap: $rowGap;
+}
