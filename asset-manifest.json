@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/formula1/static/css/main.b27888f9.css",
+    "main.css": "/formula1/static/css/main.c13721d9.css",
     "main.js": "/formula1/static/js/main.dc39692e.js",
     "static/js/453.3b0612fd.chunk.js": "/formula1/static/js/453.3b0612fd.chunk.js",
     "static/media/fp-img.png": "/formula1/static/media/fp-img.d1ce65ecc02585b43d4e.png",
@@ -17,12 +17,12 @@
     "static/media/Formula1-Regular.otf": "/formula1/static/media/Formula1-Regular.a5336cac9ba0fc563d1e.otf",
     "static/media/formula1-logo.png": "/formula1/static/media/formula1-logo.af8a4220585f20cd03d5.png",
     "index.html": "/formula1/index.html",
-    "main.b27888f9.css.map": "/formula1/static/css/main.b27888f9.css.map",
+    "main.c13721d9.css.map": "/formula1/static/css/main.c13721d9.css.map",
     "main.dc39692e.js.map": "/formula1/static/js/main.dc39692e.js.map",
     "453.3b0612fd.chunk.js.map": "/formula1/static/js/453.3b0612fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b27888f9.css",
+    "static/css/main.c13721d9.css",
     "static/js/main.dc39692e.js"
   ]
 }
